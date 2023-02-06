@@ -7,10 +7,8 @@ Você irá construir uma aplicação de cadastro de talkers (palestrantes) em qu
 Desenvolver uma API de um CRUD (Create, Read, Update e Delete) de palestrantes (talkers) e;
 Desenvolver alguns endpoints que irão ler e escrever em um arquivo utilizando o módulo fs.
 
-#### Abrir essa Issue e o PR
-
-- [ ] #5
-- [ ] Abri o PR
+#### Abrir o PR
+- [x] Abri o PR
 
 ## Revisão de conteúdo:
 
